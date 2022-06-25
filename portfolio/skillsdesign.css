@@ -110,3 +110,8 @@ u
   text-decoration: dotted;
   /* text-align: center;*/
 } 
+
+#skills
+{
+    background-image:linear-gradient(blue,black);
+}

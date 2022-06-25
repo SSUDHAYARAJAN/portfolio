@@ -1,8 +1,13 @@
-function currentContent()
+const element =document.getElementById("home");
+element.addEventListener('click',()=>{
+  element.style.cssText='background-color: blue;'
+},false);
+
+function get()
 {
-    const ele =this.getElementsByClassName('active');
-    ele.style.color="blue";
+  console.log("helloworld");
 }
+
 
 function random(num) {
     return Math.floor(Math.random()*num)
