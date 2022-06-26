@@ -1,6 +1,6 @@
 body
 {
-    position: fixed;
+    /* position: fixed; */
    
 }
 u
@@ -12,7 +12,7 @@ u
 }
 .skillsbar
 {
-    position: fixed;
+    /* position: fixed; */
     height:max-content;
     width: max-content;
     background-color: black;
